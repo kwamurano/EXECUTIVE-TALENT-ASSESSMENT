@@ -31,6 +31,11 @@
 $ yarn install
 ```
 
+## Environment Variables Setup
+
+PORT=7000
+MONGODB_URI="mongodb+srv://kwality:kwamurano@cluster0.aul9j.mongodb.net/talent-assessment"
+
 ## Compile and run the project
 
 ```bash
